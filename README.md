@@ -1,5 +1,14 @@
 # training_ungar
 Repository for training on git
-## This is the fun stuff
-* Blah
-* Blah
+
+- Data
+-Metadata
+-Science
+
+## Installaton details
+
+
+- Step 1
+- Step 2
+
+
