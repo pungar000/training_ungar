@@ -15,3 +15,6 @@ Look at my cool work!
 
 And here's another!
 [Chapter 8 learning module](Chapter8.html)
+
+Cool plots
+[Cool plots] (data_vis.html)
