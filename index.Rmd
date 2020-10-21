@@ -12,3 +12,6 @@ knitr::opts_chunk$set(echo = TRUE)
 Look at my cool work!
 
 [https://ungarlab.uark.edu]
+
+And here's another!
+[Chapter 8 learning module](Chapter8.html)
