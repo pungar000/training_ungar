@@ -43,5 +43,12 @@ annual_esc <- esc %>%
 
 ```
 
+## plotting
+
+```{r}
+ggplot(annual_esc, mapping = aes(x = Species, y = total_count, fill= SASAP.Region)) + geom_col()
+
+```
+
 
 
